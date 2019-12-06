@@ -6,3 +6,5 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/dd/mast
 ##镜像文件在GoogleDrive
 wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/dd/master/dd-gd.sh && chmod +x dd-gd.sh && ./dd-gd.sh
 复制代码
+
+会需要20分钟左右来安装，似乎完美
