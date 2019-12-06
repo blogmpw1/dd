@@ -1,0 +1,8 @@
+食用方法：
+
+##镜像文件在OneDrive
+wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/dd/master/dd-od.sh && chmod +x dd-od.sh && ./dd-od.sh
+
+##镜像文件在GoogleDrive
+wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/dd/master/dd-gd.sh && chmod +x dd-gd.sh && ./dd-gd.sh
+复制代码
